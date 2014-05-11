@@ -1,7 +1,7 @@
 {
-    "name": "crisu83/yii-auth",
+    "name": "superles/yii-auth",
     "require": {
-        "crisu83/yiistrap": "dev-bs3"
+        "superles/yiistrap": "dev-bs3"
     },
     "require-dev": {
         "yiisoft/yii": ">=1.1.0"
